@@ -8,6 +8,7 @@ public class Demo1 {
 	public void cars()
 	{
 		System.out.println("Benz");
+		System.out.println("Audi");
 	}
 
 }
